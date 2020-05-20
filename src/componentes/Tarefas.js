@@ -18,7 +18,7 @@ export default class Tarefas extends Component {
             tags: ["tag 1", "tag 2", "tag 3", "tag 4"],
             data: "",
             datas: [getDate, getDate, getDate, getDate],
-            hora: "",
+            hora: "", 
             horas: [getHours, getHours, getHours, getHours]
         }
 
