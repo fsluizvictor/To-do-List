@@ -1,0 +1,38 @@
+Dificuldades:
+
+Tive dificuldade em aplicar os conceitos de propriedade e estados nos componentes da aplicação, 
+venho estudando a biblioteca a um certo tempo, mas me enveredei para o seu uso mobile nativo, o React Native.
+Tenho bastante noção dos fundamentos da biblioteca mas ainda estou absorvendo o trato funcional que o 
+JavaScript possui. A minha principal dificuladade foi tratar os estados dos componentes, de certa forma 
+vi que o problema que minha aplicação tem ao acrescentar uma nova anotação é na tag form, não soube 
+direito manipular a função onSubmit. Um outro problema que tive foi manipular datas e horários, não 
+obtive êxito, vale ressaltar que tentei utilizar duas bibliotecas, Moment e date-fns, sendo que uma 
+foi sugerida no roteiro do trabalho prático. Apesar de encontrar bons tutoriais sobre essas bibliotecas, 
+não consegui manipulá-las.Por conta do curto tempo optei por me dedicar mais ao básico da aplicação, que
+seria mostrar alguma funcionalidade cadastrada, poder adicionar e remover, logo não utilizei o localStage.
+Um outro ponto que devo frizar é que utilizei React com JavaScript, conheço a aplicação do TypeScript e a
+importância do seu uso, que a grosso modo seria um JavaScript mais Orientado a Objetos e com tipagem,mas a 
+julgar pelo tempo e conhecimento da linguagem, não seria interessante utilizá-la, sei que o exigido em
+roteiro era TypeScript mas por questões técnicas não pude executar.
+
+Usabilidade:
+
+Levando em consideração o objetivo do projeto optei por tentar trazer uma interface bem simples e minimalista para a página, sendo
+que o público é alvo é idoso, é interessante essa linha de pensamento.Levando em consideração a arquitetura de informação do 
+webapp, optei por deixar espaços grandes e que possuem um placeholder onde é indicado o que deverá ser escrito naquele local,
+por se tratar de um spa achei interessante deixar um scrool com todos os itens que virão a ser cadastrados, independente do local
+onde for acessado a sua utilização será facilitada e ao mesmo tempo mais dinâmica, por conter todas as tarefas ao mesmo tempo.
+Com o crescimento do uso dos smartphones é interessante que a página fique mais espassada, e ao mesmo tempo que se evita uma 
+aglomeração de informação no mesmo local. Optei também por colocar símbolos em alguns pontos estratégicos, como foi no caso 
+do box das tarefas cadastradas. A cor vermelha no botão de cadastro é para chamar a atenção do usuário e fazer esse componente 
+distoar dos outros, têm-se também alguns pontos por detrás desta cor, como o seu efeito diante do consciente das pessoas.
+
+Todo:
+
+Existem muitas funcionalidades que seriam interessantes serem implementadas, como filtros por tag,data ou título. Não pude concluir
+uma funcionalidade como essa mais por conta do prazo, pois de certa forma seria algo simples, envolveria apenas manipulação de dados
+através de ferramentas da própria linguagem, como as funções map,filter,reduce. Uma outra funcionalidade interessante seria a de poder
+tocar nas tarefas cadastradas e poder abrir uma nova nova página, contendo alguns ícones para poder fazer alteração e exclusão, esse tipo
+de funcionalidade já seria um pouco mais elaborada, envolveria rotas, mas algo que poderia ser desenvolvido com um prazo maior.É interessante
+salientar que quando indico um prazo maior é no intuito de poder procurar mais enbasamento técnico para cumprir tais demandas. Sinto
+que o trato com a linguagem faz total diferença e que de certa forma dominar os seus fundamentos é essencial.
